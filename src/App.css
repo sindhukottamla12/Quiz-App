@@ -1,0 +1,19 @@
+/* App.css */
+
+body {
+  background-color: #292b2e;
+  color: #ffffff;
+}
+
+.app-title {
+  color: #ffffff;
+  margin-top: 2rem;
+  margin-right: 1rem;
+}
+
+/* .center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+} */

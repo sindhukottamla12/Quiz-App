@@ -1,4 +1,5 @@
 React Quiz App
+
 Description
 This is an interactive Quiz Application built using React. It presents a series of multiple-choice questions to users, tracks their selected answers, and calculates the final score. The app features a clean interface styled with Bootstrap and demonstrates React class components with state management.
 
